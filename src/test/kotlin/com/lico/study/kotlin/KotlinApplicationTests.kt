@@ -1,4 +1,4 @@
-package com.lico.study.kotlin.kotlin
+package com.lico.study.kotlin
 
 import org.junit.Test
 import org.junit.runner.RunWith
